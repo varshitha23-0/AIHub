@@ -60,8 +60,8 @@ AI-Hub/
 
 ```bash
 git lfs install
-git clone <your-repository-url>
-cd <repository-folder>
+git clone https://github.com/varshitha23-0/AIHub
+cd AIHub
 git lfs pull
 ```
 
