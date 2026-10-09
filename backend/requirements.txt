@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+apscheduler
+pymongo
+pydantic
+python-dotenv
+requests
+feedparser
+trafilatura
+transformers
+torch
+sentence-transformers
+scikit-learn
+scipy
+numpy
+bcrypt

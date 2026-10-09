@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environment and secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Node.js
+node_modules/
+dist/
+
+# Local output
+*.log
+
+# Too large for a regular GitHub repository; keep this checkpoint locally.
+/models/pegasus/model.safetensors
